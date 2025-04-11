@@ -473,3 +473,7 @@ composer.lock
 *.css.map
 *.sass.map
 *.scss.map
+
+##### PROJECT SPECIFIC
+# Project specific files
+# None at the moment
